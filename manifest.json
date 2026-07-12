@@ -1,0 +1,8 @@
+{
+  "name":"Control de Asistencia Prevención",
+  "short_name":"Prevención",
+  "display":"standalone",
+  "start_url":".",
+  "background_color":"#ffffff",
+  "theme_color":"#009688"
+}
