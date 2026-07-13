@@ -52,7 +52,7 @@ Html5Qrcode.getCameras()
 
   if(devices.length){
 
-      let camara = devices[0].id;
+      let camara = devices[devices.length - 1].id;
 
       html5QrCode.start(
         camara,
